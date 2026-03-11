@@ -16,7 +16,7 @@
 
 I'm a straight **A+ student** (GPA: **<span style="color: #4A7C59;">9.64</span>**) who's absolutely passionate about the intersection of technology and aesthetics. While I code with determination and precision, I also believe that beauty matters—whether it's in the design of a user interface, the cover of a book, or the way we present ourselves to the world.
 
-**<span style="color: #4A7C59;">Currently:</span>** Seeking a challenging **Junior Software Engineer** role or meaningful **internship** to grow my skills and contribute to impactful projects.
+**<span style="color: #4A7C59;">Currently:</span>** Seeking a challenging **Software Engineer** role or meaningful **internship** to grow my skills and contribute to impactful projects.
 
 ### <span style="color: #FFB6C1;">✩°｡ ⋆⸜ What Makes Me Unique</span>
 - <span style="color: #4A7C59;">🦢 **Student President** for my year and specialization</span>
