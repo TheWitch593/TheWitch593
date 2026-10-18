@@ -1,134 +1,137 @@
-<div align="center">
+<div align="center">Bruna Drăgulin
 
-# 🌸 Hello there, lovely visitor! I'm **Bruna Dragulin** 💗
+Software Engineering M.Sc. Student · Computer Science Graduate · Creative Developer
 
-### 💕 Computer Science Graduate • Aspiring M.Sc. in Software Engineering • Graphic Designer • Bookworm
+Building thoughtful software, designing intuitive experiences, and combining engineering with creativity.
 
-> *"Building thoughtful software, designing meaningful experiences, and turning ideas into reality."*
+""GitHub" (https://img.shields.io/badge/GitHub-TheWitch593-B76E79?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/TheWitch593)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-8E6474?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/bruna-dragulin)
+""Portfolio" (https://img.shields.io/badge/Portfolio-Explore-6D5966?style=for-the-badge&logo=vercel&logoColor=white)" (https://lilith-dolohov.vercel.app)
 
-🎓 **B.Sc. in Computer Science**  
-📚 **Second Degree in Economics & Teaching Modules**  
-🏆 **Bachelor's Degree GPA:** **9.51 / 10.00** *(≈ 3.90 / 4.00 GPA)*  
-📝 **Bachelor's Thesis Grade:** **9.49 / 10.00**
+"Profile Views" (https://komarev.com/ghpvc/?username=TheWitch593&color=B76E79&style=flat-square&label=PROFILE+VIEWS)
 
-🌷 *Currently aspiring to pursue an M.Sc. in Software Engineering at the University of Bucharest.*
+</div>---
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheWitch593&color=FF69B4&style=for-the-badge&label=Profile+Views)
+About Me
 
-</div>
+I'm a Computer Science graduate currently pursuing an M.Sc. in Software Engineering at the University of Bucharest. My interests lie in software engineering, artificial intelligence, full-stack development, and building applications that combine technical reliability with thoughtful user experiences.
 
----
+Alongside my technical background, I have an interdisciplinary foundation in economics and education, as well as several years of experience in graphic design. I enjoy approaching problems from both an engineering and a creative perspective, whether I'm developing an application, exploring a new technology, or designing an intuitive interface.
 
-# 💗 About Me
+I'm always looking for opportunities to expand my technical knowledge, collaborate on meaningful projects, and turn ideas into practical solutions.
 
-I'm a recent **Computer Science graduate** passionate about creating software that is both functional and beautiful. I enjoy solving real-world problems through code while bringing creativity into every project, whether it's developing intelligent applications, designing intuitive user interfaces, or crafting book covers that tell a story.
+Academic Background
 
-Alongside my Computer Science degree, I completed a **second degree in Economics** and the **Teaching Modules**, giving me a multidisciplinary perspective that blends technology, business, and education.
+- M.Sc. in Software Engineering | University of Bucharest (Currently pursuing)
+- B.Sc. in Computer Science | Petroleum-Gas University of Ploiești
+- Additional Studies: Economics and Teaching Modules
+- Bachelor's Degree GPA: 9.51 / 10.00
+- Bachelor's Thesis Grade: 9.49 / 10.00
 
-I'm currently aspiring to continue my academic journey with an **M.Sc. in Software Engineering** while seeking opportunities to grow as a **Software Engineer**, contribute to impactful projects, and keep learning every day.
+A Little About Me
 
-## 💖 A Little About Me
+- Software engineering and application development
+- Artificial intelligence and intelligent systems
+- Full-stack and cross-platform development
+- Database design and backend technologies
+- UI/UX design and human-centered development
+- Graphic design, digital art, and book cover design
+- Reading, learning languages, and exploring new technologies
 
-- 🎓 Computer Science Graduate
-- 🌸 Aspiring M.Sc. in Software Engineering
-- 💻 Passionate about Software Engineering, AI & Full-Stack Development
-- 🎨 Graphic Designer specializing in book covers
-- 📚 Lifelong bookworm who believes every story deserves a beautiful cover
-- 🌷 UI/UX enthusiast who loves creating elegant, user-centered experiences
-- ✨ Always learning, always building
+Languages
 
-## 🌸 Languages
-
-- 🇷🇴 Romanian (Native)
-- 🇬🇧 English (Fluent)
-- 🇨🇳 Chinese (Learning)
-
----
-
-# 💗 Featured Projects
-
-These projects showcase my technical skills and my passion for building meaningful software.
-
-## 🌸 Rosa AI: Smart Assistant
-🔗 **https://github.com/TheWitch593/Rosa-Ai**
-
-An intelligent conversational AI assistant built with Python, showcasing my interest in artificial intelligence, natural language processing, and practical software engineering.
-
-## 💕 Monthly Challenge
-🔗 **https://github.com/TheWitch593/Monthly_challenge**
-
-A personal coding journey focused on consistency, discipline, and continuous learning through regular programming challenges.
+- Romanian: Native
+- English: Fluent
+- Chinese: Beginner, currently learning
 
 ---
 
-# 💗 Tech Stack & Tools
+Featured Projects
 
-<div align="center">
+A selection of projects reflecting my interests in software development, AI, and continuous learning.
 
-### 💕 Programming Languages
+Rosa AI | Intelligent Assistant
 
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FF85C2?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF85C2?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF85C2?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white)
+"Explore the repository →" (https://github.com/TheWitch593/Rosa-Ai)
 
-### 💕 Frameworks & Technologies
+An intelligent conversational assistant developed with Python, exploring practical applications of artificial intelligence and natural language processing.
 
-![React](https://img.shields.io/badge/React-FF85C2?style=for-the-badge&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-FF69B4?style=for-the-badge&logo=flutter&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-FF85C2?style=for-the-badge&logo=springboot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FF85C2?style=for-the-badge&logo=github&logoColor=white)
+Technologies: Python · AI · Conversational Systems
 
-### 💕 Design Tools
+Monthly Challenge | Coding Practice
 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-FF69B4?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF85C2?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
+"Explore the repository →" (https://github.com/TheWitch593/Monthly_challenge)
 
-</div>
+A personal coding initiative focused on consistent practice, algorithmic thinking, and strengthening programming fundamentals through regular challenges.
+
+Focus: Programming · Problem-Solving · Continuous Learning
+
+CS Girls Fall Hackathon
+
+"Explore the repository →" (https://github.com/TheWitch593/CS-Girls-Fall-Hack)
+
+A hackathon-related project reflecting my interest in collaborative software development, rapid prototyping, and building solutions within a team.
+
+Focus: Hackathons · Collaboration · Software Development
 
 ---
 
-# 💗 GitHub Stats
+Tech Stack & Tools
 
-<div align="center">
+<div align="center">Programming Languages
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheWitch593&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=FF85C2&text_color=FF69B4&bg_color=FFFFFF" />
+"Python" (https://img.shields.io/badge/Python-B76E79?style=for-the-badge&logo=python&logoColor=white)
+"C++" (https://img.shields.io/badge/C%2B%2B-B76E79?style=for-the-badge&logo=cplusplus&logoColor=white)
+"Java" (https://img.shields.io/badge/Java-B76E79?style=for-the-badge&logo=openjdk&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-B76E79?style=for-the-badge&logo=javascript&logoColor=white)
+"HTML5" (https://img.shields.io/badge/HTML5-B76E79?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-B76E79?style=for-the-badge&logo=css3&logoColor=white)
+"SQL" (https://img.shields.io/badge/SQL-B76E79?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheWitch593&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakNum=FF69B4&sideNums=FF69B4&sideLabels=FF69B4&dates=FF69B4&background=FFFFFF" />
+Frameworks & Technologies
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWitch593&layout=compact&hide_border=true&title_color=FF69B4&text_color=FF69B4&bg_color=FFFFFF" />
+"React" (https://img.shields.io/badge/React-8E6474?style=for-the-badge&logo=react&logoColor=white)
+"Flutter" (https://img.shields.io/badge/Flutter-8E6474?style=for-the-badge&logo=flutter&logoColor=white)
+"Spring Boot" (https://img.shields.io/badge/Spring_Boot-8E6474?style=for-the-badge&logo=springboot&logoColor=white)
+"FastAPI" (https://img.shields.io/badge/FastAPI-8E6474?style=for-the-badge&logo=fastapi&logoColor=white)
 
-</div>
+Databases & Development Tools
+
+"MySQL" (https://img.shields.io/badge/MySQL-6D5966?style=for-the-badge&logo=mysql&logoColor=white)
+"Oracle" (https://img.shields.io/badge/Oracle-6D5966?style=for-the-badge&logo=oracle&logoColor=white)
+"Git" (https://img.shields.io/badge/Git-6D5966?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-6D5966?style=for-the-badge&logo=github&logoColor=white)
+
+Design & Prototyping
+
+"Adobe Photoshop" (https://img.shields.io/badge/Photoshop-B76E79?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+"Adobe Illustrator" (https://img.shields.io/badge/Illustrator-B76E79?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+"Figma" (https://img.shields.io/badge/Figma-B76E79?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>---
+
+GitHub Statistics
+
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=TheWitch593&show_icons=true&hide_border=true&title_color=B76E79&icon_color=B76E79&text_color=C9C1C8&bg_color=0D1117&rank_icon=github" alt="GitHub statistics" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWitch593&layout=compact&hide_border=true&title_color=B76E79&text_color=C9C1C8&bg_color=0D1117" alt="Most-used programming languages" /><img src="https://streak-stats.demolab.com/?user=TheWitch593&hide_border=true&ring=B76E79&fire=C58A9B&currStreakLabel=B76E79&sideLabels=C9C1C8&dates=8E6474&background=0D1117&currStreakNum=C9C1C8&sideNums=C9C1C8" alt="GitHub contribution streak" /></div>---
+
+Beyond Software
+
+Creativity has always been an important part of how I approach technology. With a background in graphic design and a particular interest in book covers, I enjoy exploring the intersection of visual storytelling, interface design, and digital products.
+
+Outside coding, you'll usually find me reading, designing, learning something new, or exploring another creative project.
+
+I believe that great software is not only functional. It should also be thoughtful, accessible, and designed with the people using it in mind.
 
 ---
 
-# 💗 Let's Connect
+Let's Connect
 
-<div align="center">
+I'm open to connecting with fellow developers, exchanging ideas, collaborating on interesting projects, and exploring opportunities to grow in software engineering.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-dragulin)
+<div align="center">""LinkedIn" (https://img.shields.io/badge/LinkedIn-Let's_Connect-B76E79?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/bruna-dragulin)
+""Email" (https://img.shields.io/badge/Email-Get_in_Touch-8E6474?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:dragulinbruna2004@gmail.com)
+""Portfolio" (https://img.shields.io/badge/Portfolio-View_My_Work-6D5966?style=for-the-badge&logo=vercel&logoColor=white)" (https://lilith-dolohov.vercel.app)
 
-[![Email](https://img.shields.io/badge/Email-FF85C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dragulinbruna2004@gmail.com)
+Engineering with purpose. Creating with intention. Learning continuously.
 
----
-
-### 🌸 Thank you for visiting my GitHub!
-
-*"Every great project begins with curiosity, grows through perseverance, and flourishes through creativity."* 💗
-
-**Dream it. Build it. Ship it. Repeat. 🌸**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B76E79,100:6D5966&height=120&section=footer" width="100%" alt="Dusty rose and mauve footer" /></div>
